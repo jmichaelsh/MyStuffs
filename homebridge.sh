@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source <(curl -s https://github.com/jmichaelsh/MyStuffs/blob/main/build.func)
+source <(curl -s https://raw.githubusercontent.com/jmichaelsh/MyStuffs/main/build.func)
 
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
